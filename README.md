@@ -17,7 +17,7 @@ Every day for the next 60 days, I will be:
 
 | Day | Topic Covered | Status |
 |-----|---------------|--------|
-| 01  | [Dart Language Fundamentals](#) | ✅ |
+| 01  | [Dart Language Fundamentals](#Day_01) | ✅ |
 
 
 ✅ = Completed ⬜ = Upcoming 🔄 = In Progress
