@@ -41,7 +41,7 @@ void main() {
       case 'view':
         print('Tasks:');
         for (var i = 0; i < tasks.length; i++) {
-          print('$i. ${tasks[i]}');
+          print('${i + 1}. ${tasks[i]}');
         }
         break;
 
